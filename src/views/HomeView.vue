@@ -21,7 +21,7 @@ import Search from '@/components/Search.vue';
         <img class="d-block w-100" src="/background/Treno2.jpeg" alt="Fifth slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="/background/Aereo3.jpg" alt="Sixth slide">
+        <img class="d-block w-100" src="/background/Aereo4.jpeg" alt="Sixth slide">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
